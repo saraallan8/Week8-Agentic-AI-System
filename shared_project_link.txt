@@ -1,0 +1,6 @@
+Week 8 – Agentic AI System
+
+**Shared Team Repository:**
+https://github.com/Nagham202/cellula-week8-agentic-system
+
+This repository contains the shared team code. My contributions are part of the project in the shared repository.
